@@ -1,0 +1,13 @@
+{
+  "name": "ai-web-app",
+  "version": "1.0.0",
+  "description": "A simple AI Web App with OpenAI API integration",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.3.0"
+  }
+}
